@@ -6,9 +6,11 @@ This template can be used in E-commerce website to showcase their products and f
 
 <img src="screenshots/cap1.JPG" width=800px>
 <img src="screenshots/aboutandcontact.JPG" width=800px>
+
 ### Slider 
 
 <img src="screenshots/slider.JPG" width=800px>
+
 ### About 
 
 <img src="screenshots/aboutus.JPG" width=800px>
